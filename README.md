@@ -85,4 +85,10 @@ main :: func(): void {
   <li>
     <h3>Email:</h3> adnmtz1987@gmail.com 
   </li>
+  <li>
+    <h3>Phone:</h3> +54 9 11 32893420 
+  </li>
+  <li>
+    <h3>LinkedIn:</h3> https://www.linkedin.com/in/adrian-martinez-/
+  </li>
 </ul>
