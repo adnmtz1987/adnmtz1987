@@ -21,10 +21,10 @@ main :: func(): void {
     funFact: "The first computer virus was created in 1983!"
   };
 
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
+  println "Pronouns: ${adrian.pronouns}";
+  println "Languages I Know: ${adrian.languages}";
+  println "My Hobbies: ${adrian.hobbies}";
+  println "Fun Fact: ${adrian.funFact}";
 }
 ```
 
