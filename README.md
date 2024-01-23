@@ -42,18 +42,18 @@ main :: func(): void {
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
       </td>
       <td width="25%" align="center">
-        <span>node.js</span><br><br><br>
+        <span>Node.js</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>Next.js</span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -69,7 +69,7 @@ main :: func(): void {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
+- 💻 [PetShop Kimey](https://github.com/PF-Henrry/petShop)
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
