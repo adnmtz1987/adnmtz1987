@@ -79,3 +79,10 @@ main :: func(): void {
 - Travel
 - Dogs
 - Learn new things
+
+# Contact 
+<ul>
+  <li>
+    <h3>Email:</h3> adnmtz1987@gmail.com 
+  </li>
+</ul>
