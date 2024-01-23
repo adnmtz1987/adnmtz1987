@@ -70,7 +70,7 @@ main :: func(): void {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 [PetShop Kimey GitHub](https://github.com/PF-Henrry/petShop)
-- 💻 [PetShop Kimey Deploy](ttps://pet-shop-peach.vercel.app/)
+- 💻 [PetShop Kimey Deploy](https://pet-shop-peach.vercel.app/)
 
 
 # I Like
