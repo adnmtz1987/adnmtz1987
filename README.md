@@ -50,6 +50,10 @@ main :: func(): void {
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
       </td>
     </tr>
+    <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Next.js</span><br><br><br>
