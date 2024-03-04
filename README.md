@@ -56,6 +56,10 @@ main :: func(): void {
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Mongoose</span><br><br><br>
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*rL8Buu7o6jnG-TYV1WubeQ.png">
+      </td>
+      <td width="25%" align="center">
         <span>Next.js</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
       </td>
